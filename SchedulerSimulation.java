@@ -8,12 +8,6 @@ import java.util.Random;
 // ANSI Color Codes for enhanced terminal output
 class Colors {
 
-    >>   git config --global user
-    .name "JoudSa11"  
-git config --global user
-    .email "445052278@std.psau.edu.sa"                               
-  git config --global user
-    .name "JoudSa11"  
     int x = 0;
     public static final String RESET = "\u001B[0m";
     public static final String BOLD = "\u001B[1m";
